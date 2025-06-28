@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey Mishra</h1>
-<h3 align="center">Web Developer | Machine Learning Enthusiast | final Year CSE @ MNNIT Allahabad</h3>
+<h3 align="center">Web Developer | CP/DSA| final Year CSE @ KIET Group Of Institution /h3>
 
 <p align="center">
   <a href="mailto:kartikeymishra312@gmail.com">📧 kartikeymishra312@gmail.com</a> • 
