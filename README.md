@@ -55,7 +55,7 @@ Always exploring new technologies and solving real-world problems with scalable 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
+<!-- 
 
 📊 **GitHub Stats**
 --------------------
@@ -63,12 +63,12 @@ Always exploring new technologies and solving real-world problems with scalable 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kartikey312&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey312&theme=radical" alt="Streak Stats" />
-<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ujjwalbaranwal&theme=react-dark" alt="Contribution Graph" /> -->
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ujjwalbaranwal&theme=react-dark" alt="Contribution Graph" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey312&layout=compact&theme=radical" alt="Top Languages" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikey312&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
----
+--- -->
 
 
 🌐 **Connect With Me**
