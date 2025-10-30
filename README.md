@@ -33,7 +33,7 @@ Always exploring new technologies and solving real-world problems with scalable 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 --- -->
-
+<!---
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -48,7 +48,7 @@ Always exploring new technologies and solving real-world problems with scalable 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
+--!>
 ### Tools & Platforms
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -56,10 +56,10 @@ Always exploring new technologies and solving real-world problems with scalable 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <!-- 
-
+<!--
 📊 **GitHub Stats**
 --------------------
-
+--!>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kartikey312&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey312&theme=radical" alt="Streak Stats" />
@@ -69,7 +69,7 @@ Always exploring new technologies and solving real-world problems with scalable 
 </p>
 
 --- -->
-
+<!--
 
 🌐 **Connect With Me**
 -----------------------
