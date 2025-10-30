@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartikey Mishra</h1>
+<!-- <h1 align="center">Hi 👋, I'm Kartikey Mishra</h1>
 <h3 align="center">Web Developer | CP/DSA| final Year CSE @ KIET Group Of Institution /h3>
 
 <p align="center">
@@ -77,4 +77,4 @@ Always exploring new technologies and solving real-world problems with scalable 
 <p align="left">
   <a href="https://github.com/kartikey312" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kartikey-mishra-15942224a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
+</p> -->
